@@ -19,8 +19,7 @@
 ### Olá, me chamo Victor Zarzar 🖖🏻
 
 * QA / Analista de Sistemas
-*Podendo migrar para Front end, mas preferência por trabalhar como QA.
 
 Em fase de aprendizado contínuo, com foco total no crescimento,
 disponível 100% para aprender novas tecnologias e com muita ambição
-de crescimento, desejo me inserir ao mercado o mais rápido possível.
+de crescimento.
