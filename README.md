@@ -19,7 +19,7 @@
  
 ### Olá, me chamo Victor Zarzar 🖖🏻
 
-* QA / Analista de Sistemas
+* QA / Cypress.io
 
 Em fase de aprendizado contínuo, com foco total no crescimento,
 disponível 100% para aprender novas tecnologias e com muita ambição
