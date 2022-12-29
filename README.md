@@ -18,10 +18,6 @@
   
 
  
-### Olá, me chamo Victor Zarzar 🖖🏻
+### Hello, my name is Victor Zarzar 🖖🏻
 
 * QA Analyst 
-
-Em fase de aprendizado contínuo, com foco total no crescimento,
-disponível 100% para aprender novas tecnologias e com muita ambição
-de crescimento.
