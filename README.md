@@ -1,4 +1,4 @@
-### I'm Victor Zarzar, Software Developer 🖖🏻
+### I'm Victor Zarzar, QA Analyst 🖖🏻
 
 <div>
   
