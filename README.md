@@ -1,11 +1,11 @@
 <h1 align="center"><i>Hi There, I'm Victor Zarzar <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></i></h1>
 
 ```dart
-class VictorZazar extends Developer {
+class VictorZarzar extends Developer {
   @override
   final Map<String, Object> data = {
-    'work': '⚡️ Dev at XLabs',
-    'age': '🐱 32',
+    'work': '💻 Dev at XLabs',
+    'age': '🤘🏻 32',
     'address': 'Novo Hamburgo, RS',
     'languages': ['dart', 'javascript', 'typescript'],
     'operationalSystem': 'macOS', 'arch linux'
