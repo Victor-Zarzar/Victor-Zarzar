@@ -15,12 +15,24 @@ class VictorZarzar extends Developer {
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Victor-Zarzar&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Zarzar&layout=compact&langs_count=16&theme=great-gatsby" alt="readme stats" />
-  <br/>
+
+<div align="center">
+  <a href="https://github.com/Victor-Zarzar" />
+
+  <table>
+    <tr>
+      <td>
+         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Victor-Zarzar&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="Github status" />
+      </td>
+      <td>
+         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Zarzar&layout=compact&langs_count=16&theme=great-gatsby" alt="Most used languages" />
+      </td>
+      <td>
+         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Zarzar&theme=great-gatsby" alt="Streaks" />
+      </td>
+    </tr>
+  </table>
 </div>
-<br>
 
 <div align="center"> 
   <a href="mailto:victorzarzar58@gmail.com">
