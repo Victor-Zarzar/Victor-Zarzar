@@ -16,23 +16,22 @@ class VictorZarzar extends Developer {
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align="center">
-  <a href="https://github.com/Victor-Zarzar" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor-Zarzar&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+  <br>   
 
-  <table>
-    <tr>
-      <td>
-         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Victor-Zarzar&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="Github status" />
-      </td>
-      <td>
-         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Zarzar&layout=compact&langs_count=16&theme=great-gatsby" alt="Most used languages" />
-      </td>
-      <td>
-         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Zarzar&theme=great-gatsby" alt="Streaks" />
-      </td>
-    </tr>
-  </table>
+<div align="center">     
+   
+  <a href="https://github.com/Victor-Zarzar"> 
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Zarzar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Zarzar&layout=compact&langs_count=7&theme=dracula"/>  
+       
+</div>  
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Victor-Zarzar&theme=dracula&border_radius=8"/>
 </div>
+ <br >
 
 <div align="center"> 
   <a href="mailto:victorzarzar58@gmail.com">
@@ -59,5 +58,4 @@ class VictorZarzar extends Developer {
 <br/>
 <hr/>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
  
