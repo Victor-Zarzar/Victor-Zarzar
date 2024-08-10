@@ -5,7 +5,6 @@ class VictorZarzar extends Developer {
   @override
   final Map<String, Object> data = {
     'work': '💻 Dev at XLabs',
-    'age': '🤘🏻 32',
     'address': 'Novo Hamburgo, RS',
     'languages': ['dart', 'javascript', 'typescript'],
     'operationalSystem': 'macOS', 'arch linux'
