@@ -6,7 +6,7 @@ class VictorZarzar extends Developer {
   final Map<String, Object> data = {
     'work': '💻 Dev at XLabs',
     'address': 'Novo Hamburgo, RS',
-    'languages': ['dart', 'javascript', 'typescript'],
+    'languages': ['dart', 'javascript', 'typescript, python'],
     'operationalSystem': 'macOS', 'arch linux'
   };
 }
