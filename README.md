@@ -49,8 +49,8 @@ class VictorZarzar extends Developer {
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,typescript,nextjs,docker,postman,flutter,dart" />
-    <img src="https://skillicons.dev/icons?i=firebase,vscode,github,androidstudio,vercel,vite,figma,git,gitlab,jest,prisma,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,typescript,py,nextjs,docker,postman,flutter,dart,sqlite" />
+    <img src="https://skillicons.dev/icons?i=firebase,sentry,vscode,github,androidstudio,vercel,vite,figma,git,gitlab,prisma,linux" />
   <br>
 </div>
 
