@@ -4,32 +4,28 @@
 class VictorZarzar extends Developer {
   @override
   final Map<String, Object> data = {
-    'work': '💻 Dev at XLabs',
+    'work': '💻 Dev',
     'address': 'Novo Hamburgo, RS',
     'languages': ['dart', 'javascript', 'typescript, python'],
-    'operationalSystem': 'macOS', 'arch linux'
+    'operationalSystem': 'macOS', 'linux'
   };
 }
 ```
 
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor-Zarzar&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-  <br>   
 
 <div align="center">     
    
   <a href="https://github.com/Victor-Zarzar"> 
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Zarzar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
- <img height="180px" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Zarzar&layout=compact&langs_count=7&theme=dracula"/>  
+ <img height="180px" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Zarzar&layout=compact&langs_count=7&theme=dracula"/>  
        
 </div>  
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Victor-Zarzar&theme=dracula&border_radius=8"/>
-</div>
  <br >
 
 <div align="center"> 
@@ -42,6 +38,13 @@ class VictorZarzar extends Developer {
   <a href="https://victorzarzar.com.br" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+     <a href="https://dev.to/victorzarzar" target="_blank">
+     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://victorzarzar.com.br/blog" target="_blank">
+     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank" /> 
+  </a>
+
 </div>
 
  <hr/>
@@ -56,5 +59,9 @@ class VictorZarzar extends Developer {
 
 <br/>
 <hr/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Victor-Zarzar&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+</div>
 
  
