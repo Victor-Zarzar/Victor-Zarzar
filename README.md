@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hey There, I'm Victor Zarzar <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></i></h1>
+<h1 align="center"><i>GitHub Organization dedicated to hosting a portfolio of open source projects and open source software development solutions.🖖🏻</i></h1>
 
 ```typescript
 type DeveloperProfile = {
