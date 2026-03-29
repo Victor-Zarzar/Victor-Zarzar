@@ -9,9 +9,9 @@ type DeveloperProfile = {
 };
 
 export const victorZarzar: DeveloperProfile = {
-  role: '💻 Front-End Developer',
+  role: '💻 Full Stack Developer',
   location: 'Novo Hamburgo, RS - Brazil',
-  languages: ['JavaScript', 'TypeScript', 'Python'],
+  languages: ['JavaScript', 'TypeScript'],
   operatingSystems: ['macOS', 'Linux'],
 } as const;
 ```
