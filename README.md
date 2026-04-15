@@ -11,7 +11,7 @@ type DeveloperProfile = {
 export const victorZarzar: DeveloperProfile = {
   role: '💻 Full Stack Developer',
   location: 'Novo Hamburgo, RS - Brazil',
-  languages: ['JavaScript', 'TypeScript'],
+  languages: ['TypeScript', 'Dart'],
   operatingSystems: ['macOS', 'Linux'],
 } as const;
 ```
@@ -21,8 +21,8 @@ export const victorZarzar: DeveloperProfile = {
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,vite,react,tailwind,mui,figma,docker,sqlite,mysql,nginx" />
-    <img src="https://skillicons.dev/icons?i=firebase,sentry,grafana,github,androidstudio,githubactions,prisma,linux" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,vite,react,dart,flutter,tailwind,mui,figma,docker,sqlite,mysql,nginx,redis" />
+    <img src="https://skillicons.dev/icons?i=firebase,sentry,grafana,github,gitlab,androidstudio,supabase,githubactions,linux" />
   <br>
 </div>
 
