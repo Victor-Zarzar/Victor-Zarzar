@@ -9,7 +9,7 @@ type DeveloperProfile = {
 };
 
 export const victorZarzar: DeveloperProfile = {
-  role: '💻 Full Stack Developer',
+  role: '💻 Front-end Web & Mobile Developer',
   location: 'Novo Hamburgo, RS - Brazil',
   languages: ['TypeScript', 'Dart'],
   operatingSystems: ['macOS', 'Linux'],
