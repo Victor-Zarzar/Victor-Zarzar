@@ -1,28 +1,12 @@
 <h1 align="center"><i>GitHub Organization dedicated to hosting a portfolio of open source projects and open source software development solutions.🖖🏻</i></h1>
 
-```typescript
-type DeveloperProfile = {
-  role: string;
-  location: string;
-  languages: readonly string[];
-  operatingSystems: readonly string[];
-};
-
-export const victorZarzar: DeveloperProfile = {
-  role: '💻 Front-end Web & Mobile Developer',
-  location: 'Novo Hamburgo, RS - Brazil',
-  languages: ['TypeScript', 'Dart'],
-  operatingSystems: ['macOS', 'Linux'],
-} as const;
-```
-
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,vite,react,dart,flutter,tailwind,mui,figma,docker,sqlite,mysql,nginx,redis" />
-    <img src="https://skillicons.dev/icons?i=firebase,sentry,grafana,github,gitlab,androidstudio,supabase,githubactions,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,mysql,postgresql,nginx,redis,sqlite,firebase,sentry,grafana,github,gitlab,githubactions,linux,fastapi" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,supabase,prisma,typescript,javascript,nextjs,vite,bun,react,dart,flutter,tailwind,mui,figma" />
   <br>
 </div>
 
