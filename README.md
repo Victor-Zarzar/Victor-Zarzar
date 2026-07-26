@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,mysql,postgresql,nginx,redis,sqlite,firebase,sentry,grafana,github,gitlab,githubactions,linux,fastapi" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,supabase,prisma,typescript,javascript,nextjs,vite,bun,react,dart,flutter,tailwind,mui,figma" />
+    <img src="https://skillicons.dev/icons?i=python,terraform,aws,supabase,prisma,typescript,javascript,nextjs,bun,react,dart,flutter,tailwind,mui,figma" />
   <br>
 </div>
 
